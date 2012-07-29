@@ -1,3 +1,0 @@
-content   Autoarchive                 chrome/content/
-
-overlay	chrome://messenger/content/messenger.xul	chrome://autoarchive/content/autoarchive_overlay.xul
