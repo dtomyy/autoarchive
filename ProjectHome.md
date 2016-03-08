@@ -1,0 +1,1 @@
+Autoarchive is a simple Thunderbird extension to archive old messages automatically.
